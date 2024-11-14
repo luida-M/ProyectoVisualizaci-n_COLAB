@@ -1,3 +1,4 @@
+
 id_venta;id_prod;id_cliente ;id_territorio;cod_pago ;id_vendedor ;fecha_venta;fecha_entrega;fecha_pago ;valor_unidad;cantidad ;costos _directos ;costos_indirectos 
 1;33;149;11;104;43;22 07 2019;30 07 2019;23 08 2019;331;111;14696,4;8817,84
 2;5;4;9;101;87;9 04 2019;28 04 2019;24 05 2019;766;55;21065;8426
